@@ -1076,7 +1076,7 @@ export default function HeroSection() {
             textShadow: "0 6px 0 rgba(29,29,29,.9)",
           }}
         >
-          Goal!
+          Polichu!
         </div>
       </section>
 
